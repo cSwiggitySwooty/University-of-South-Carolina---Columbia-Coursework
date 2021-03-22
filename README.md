@@ -1,6 +1,6 @@
 University-of-South-Carolina-Coursework
 =======================================
 
-Classes
--------
-CSCE 247 - Software Engineering
+|Class			|Class Number	|Semester Taken	|
+|-----------------------|---------------|---------------|
+|Software Engineering	|CSCE 247	|Fall 2020	|
