@@ -1,1 +1,1 @@
-# University-of-South-Carolina---Columbia-Coursework
+# University-of-South-Carolina-Coursework
