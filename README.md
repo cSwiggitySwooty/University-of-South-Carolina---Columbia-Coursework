@@ -18,4 +18,4 @@ University-of-South-Carolina-Coursework
 
 
 
-A class ending in an "H" indicates an Honors course.
+A class number ending in an "H" indicates an Honors course.
