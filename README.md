@@ -21,6 +21,8 @@ University-of-South-Carolina-Coursework
 |Building Secure Software 		|CSCE 548 	|Spring 2021  	|
 
 
+###### A class number ending in an "H" indicates an Honors course.
+
 </details>
 
 
@@ -45,8 +47,9 @@ University-of-South-Carolina-Coursework
 |Building Secure Software 		|CSCE 548 	|Spring 2021  	|
 
 
+###### A class number ending in an "H" indicates an Honors course.
+
 </details>
 
 
-A class number ending in an "H" indicates an Honors course.
 
