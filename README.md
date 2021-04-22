@@ -1,6 +1,9 @@
 University-of-South-Carolina-Coursework
 =======================================
 
+Organized by Year
+-----------------
+
 |Class				|Class Number	|Semester Taken	|
 |-------------------------------|---------------|---------------|
 |Algorithmic Design I   |CSCE 145 |Fall 2019  |
